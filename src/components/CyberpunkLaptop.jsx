@@ -242,6 +242,6 @@ const CyberpunkLaptop = (props) => {
   );
 };
 
-useGLTF.preload("/moldels/cyberpunk_laptop.glb");
+useGLTF.preload("/models/cyberpunk_laptop.glb");
 
 export default CyberpunkLaptop;
