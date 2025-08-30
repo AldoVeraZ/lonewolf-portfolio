@@ -5,7 +5,7 @@ import { useGSAP } from "@gsap/react";
 
 const ViolatorClown = ({ position }) => {
   const { scene, nodes, materials } = useGLTF(
-    "https://pub-6292fb89d115492b847883e921b4e11f.r2.dev/violator-clown.glb"
+    "https://github.com/AldoVeraZ/lonewolf-portfolio/releases/download/v1.0.0/violator-clown.glb"
   );
   const groupRef = useRef();
   const [hovered, setHovered] = useState(false);
@@ -49,7 +49,7 @@ const ViolatorClown = ({ position }) => {
 };
 
 useGLTF.preload(
-  "https://pub-6292fb89d115492b847883e921b4e11f.r2.dev/violator-clown.glb"
+  "https://github.com/AldoVeraZ/lonewolf-portfolio/releases/download/v1.0.0/violator-clown.glb"
 );
 export default ViolatorClown;
 

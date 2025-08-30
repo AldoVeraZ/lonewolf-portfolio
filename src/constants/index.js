@@ -63,7 +63,8 @@ export const myProjects = [
     subdesc:
       "Built with Express.js, Node.js, and MongoDB, featuring RESTful APIs, image uploads, and robust cart management. MercadoPago integration is partially implemented, making the platform scalable, secure, and ready for future enhancements.",
     href: "https://final-proyect-stage2-ecommerce.vercel.app/",
-    texture: "https://pub-6292fb89d115492b847883e921b4e11f.r2.dev/work1.mp4",
+    texture:
+      "https://github.com/AldoVeraZ/lonewolf-portfolio/releases/download/v1.0.0/work1.mp4",
     logo: "/assets/ToyLogo.svg",
     logoStyle: {
       backgroundColor: "#2A1816",
