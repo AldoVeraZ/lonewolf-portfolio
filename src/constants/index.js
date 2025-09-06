@@ -99,8 +99,9 @@ export const myProjects = [
     title: "CalendarPro - Smart Event Manager",
     desc: "CalendarPro is a full-stack calendar app that lets users manage events in real time. It features secure authentication, event CRUD operations, and a clean interactive interface.",
     subdesc:
-      "With LiveDoc, users can experience the future of collaboration, where multiple contributors work together in real time without any lag, by using Next.js and Liveblocks newest features.",
-    href: "https://www.youtube.com/watch?v=y5vE8y_f_OM",
+      "Built with React, Redux Toolkit, and react-big-calendar on the frontend, and Node.js, Express, MongoDB, and JWT authentication on the backend, CalendarPro showcases modern full-stack development best practices.",
+    href: "https://react-backend-calendar.onrender.com",
+    // texture: "/textures/project/work2.mp4",
     texture: "https://pub-6292fb89d115492b847883e921b4e11f.r2.dev/work2.mp4",
     logo: "/assets/project-logo2.png",
     logoStyle: {
