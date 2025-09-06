@@ -70,7 +70,7 @@ const Projects = () => {
           </div>
 
           <div className="flex justify-between items-center mt-7">
-            {/* <button
+            <button
               className="arrow-btn"
               onClick={() => handleNavigation("previous")}
             >
@@ -89,7 +89,7 @@ const Projects = () => {
                 alt="right arrow"
                 className="w-4 h-4"
               />
-            </button> */}
+            </button>
           </div>
         </div>
 
