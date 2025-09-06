@@ -103,7 +103,7 @@ export const myProjects = [
     href: "https://react-backend-calendar.onrender.com",
     // texture: "/textures/project/work1.mp4",
     texture: "https://pub-6292fb89d115492b847883e921b4e11f.r2.dev/work2.mp4",
-    logo: "/assets/calendar.png",
+    logo: "/assets/calendar.svg",
     logoStyle: {
       backgroundColor: "#13202F",
       border: "0.2px solid #17293E",
